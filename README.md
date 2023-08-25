@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Othmane Elkantaoui a Frontend Developer from Morocco
-- 👀 I’m interested in web development and games
-- 🌱 I’m currently learning MERN Stack
-- 💞️ I’m looking to collaborate on open source projects and problem solving apps
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning the MERN Stack
+- 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me email:      otman.elkantaoui (@) gmail.com       
 
 <!---

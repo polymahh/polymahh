@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Othmane Elkantaoui a Frontend Developer from Morocco
+- 👋 Hi, I’m Othmane Elkantaoui also known as PolyMad , I am a Frontend Developer from Morocco
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning the MERN Stack and perfecting nextjs
 - 💞️ I’m looking to collaborate on open source projects

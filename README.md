@@ -8,6 +8,6 @@
 polymahh/polymahh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-portfolio : https://polymad.com
+portfolio : https://polymad.dev
 
 linkedin : https://www.linkedin.com/in/othmane-elkantaoui-356a91174/
